@@ -30,3 +30,6 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 
+### Encountered issues rendering departments.
+![employee](https://user-images.githubusercontent.com/113961091/227396873-63fc2426-0ece-4dd6-ae54-1cab3d358f03.png)
+
